@@ -14,7 +14,9 @@ MySQL
 
 Insônia (testes)
 
-🗂 Recursos da API ✔ Categoria
+🗂 Recursos da API 
+
+✔ Categoria
 
 Criar vago
 
