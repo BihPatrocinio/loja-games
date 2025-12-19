@@ -12,7 +12,7 @@ TypeORM
 
 MySQL
 
-Insônia (testículos)
+Insônia (testes)
 
 🗂 Recursos da API ✔ Categoria
 
