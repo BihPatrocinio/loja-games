@@ -1,4 +1,5 @@
 API Loja Games – NestJS
+
 API RESTful para gerenciar uma loja de jogos, incluindo cadastro de produtos, categorias e relacionamento entre ambos. Projeto desenvolvido para a atividade prática do Bootcamp Generation Brasil – Módulo NestJS.
 
 🚀 Tecnologias utilizadas:
